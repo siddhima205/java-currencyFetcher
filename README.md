@@ -1,4 +1,4 @@
-# Crewmeister Test Assignment - Java Backend Developer
+
 
 ## Steps
 
@@ -26,17 +26,7 @@ As we are using user story format to specify our requirements, here are the user
 - As a client, I want to get the EUR-FX exchange rate at particular day
 - As a client, I want to get a foreign exchange amount for a given currency converted to EUR on a particular day
 
-If you think that your service would require storage, please use H2 for simplicity, even if this would not be your choice if 
-you would implement an endpoint for real clients. 
 
-We are looking out for the following aspects in your submission:
-- Well structured and thought-through api and endpoint design 
-- Clean code
-- Application of best practices & design patterns
-
-
-That being said it is not enough to "just make it work", show your full potential to write excellent software
- for Crewmeister ! 
  
 ## Setup
 #### Requirements
